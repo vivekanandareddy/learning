@@ -1,0 +1,48 @@
+OOP ::
+
+E A I P
+
+E :Reduce coplaxity + increase reusability
+A :Reduce coplaxity + isolate impact of changes
+I :Eliminate redundant code
+P :Refactor ugly switch/case stmts
+
+
+* Object literals
+let / const
+
+Object literal syntax
+Factory Function
+Constructor functions
+
+
+*Functions/Objects
+
+ValueTypes
+Number
+String
+Boolean
+Symbol // ES6
+undefined
+null
+
+*ReferenceTypes
+
+Object
+Function
+Array
+
+Primitives are copied by their Value
+Objects are copied by their reference
+
+*Constructor functions are Dynamic
+
+*Enumerating Properties
+
+*Private properties and methods
+changing this keyword to let makes private memebers of that object
+
+*Getters and Setters
+
+
+*Prototypes
